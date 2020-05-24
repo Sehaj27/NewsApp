@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    
+    <string name="news_api_key">f3d258542f274c0caf2ea349769b3fca</string>
+    <string name="learn_more_text">Read More</string>
+
+</resources>
